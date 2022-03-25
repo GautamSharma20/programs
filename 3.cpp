@@ -16,6 +16,5 @@ int main()
     else{
         cout<<cost;
     }
-    
     return 0;
 }
